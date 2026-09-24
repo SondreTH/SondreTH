@@ -37,7 +37,7 @@ Comming soon
 
 ## Stats
 
-![Top Languages](https://stats.filiprs.no/api/top-langs?username=SondreTH&layout=compact&theme=transparent)
+![Top Languages](https://stats.todnem.no/api/top-langs?username=SondreTH&layout=compact&theme=transparent)
 
 ---
 
